@@ -12,8 +12,8 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "predeploy": "pnpm run build",
-    "deploy": "gh-pages -d dist",
-    "deploy-storybook": "gh-pages -d storybook-static"
+    "deploy": "pnpm dlx gh-pages -d dist -m 'Deploy Vite app' -b gh-pages --dest app",
+    "deploy-storybook": "pnpm dlx gh-pages -d storybook-static -m 'Deploy Storybook' -b gh-pages --dest storybook"
   },
   "dependencies": {
     "react": "^18.3.1",

@@ -45,3 +45,8 @@ The **Zustand Demo** mini app showcases state management using Zustand in a Reac
    ```bash
    pnpm test
    ```
+
+### View deployed versions on GitHub pages
+
+- React App: https://ali-sanad.github.io/zustand-demo/app/
+- Storybook: https://ali-sanad.github.io/zustand-demo/storybook/
