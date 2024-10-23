@@ -1,5 +1,8 @@
 # Zustand Demo
 
+![zustand-demo](https://github.com/user-attachments/assets/6b5a04d5-3b1e-4bc6-a0ab-624332c25076)
+
+
 ## Description
 
 The **Zustand Demo** mini app showcases state management using Zustand in a React application built with TypeScript. It includes unit testing with React Testing Library (RTL) and visual component development with Storybook.
